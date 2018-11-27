@@ -1,4 +1,4 @@
-###
+### PrettyEmbed.js
 ---
 
 ```
